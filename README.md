@@ -1,6 +1,6 @@
 # Interactive Excel Data Science Salary Dashboard
 
-![Dashboard Preview](dashboard_preview.gif)
+![Dashboard Preview](/Screenshots/dashboard_preview.gif)
 
 ## Introduction
 
