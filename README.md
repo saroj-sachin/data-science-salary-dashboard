@@ -33,7 +33,7 @@ The dataset used for this project contains real-world data science job informati
 
 #### 📊 Data Science Job Salaries - Bar Chart
 
-<img src="bar_chart.png" width="481" height="283.5">
+<img src="/Screenshots/bar_chart.png" width="481" height="283.5">
 
 - **Excel Features:** Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
 - **Design Choice:** Horizontal bar chart for visual comparison of median salaries.
@@ -42,7 +42,7 @@ The dataset used for this project contains real-world data science job informati
 
 #### 🗺️ Country Median Salaries - Map Chart
 
-<img src="map_chart.gif" width="510" height="289">
+<img src="/Screenshots/map_chart.gif" width="510" height="289">
 
 - **Excel Features:** Utilized Excel's map chart feature to plot median salaries globally.
 - **Design Choice:** Color-coded map to visually differentiate salary levels across regions.
@@ -73,11 +73,11 @@ IF(
 
 🍽️ Background Table
 
-<img src="background_table_salary.png" width="349" height="217.5">
+<img src="/Screenshots/background_table_salary.png" width="349" height="217.5">
 
 📉 Dashboard Implementation
 
-<img src="job_title.png" width="481.5" height="558.5">
+<img src="/Screenshots/job_title.png" width="481.5" height="558.5">
 
 
 #### ⏰ Count of Job Schedule Type
@@ -91,11 +91,11 @@ IF(
 
 🍽️ Background Table
 
-<img src="background_table_type.png" width="311" height="124">
+<img src="/Screenshots/background_table_type.png" width="311" height="124">
 
 📉 Dashboard Implementation
 
-<img src="job_type.png" width="469.5" height="560">
+<img src="/Screenshots/job_type.png" width="469.5" height="560">
 
 
 ### Data Validation
@@ -107,7 +107,7 @@ IF(
     - 🚫 Incorrect or inconsistent entries are prevented
     - 👥 Overall usability of the dashboard is enhanced
  
-<img src="data_validation.gif" width="400" height="359.5">
+<img src="/Screenshots/data_validation.gif" width="400" height="359.5">
 
 
 ## Conclusion
